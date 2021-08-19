@@ -34,3 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+# in ngrok.yml
+
+authtoken: 1wwoUMIqSYq05SXkNvWNAG6NaaA_85Z515azLyHDQYxyzZSg8
